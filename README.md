@@ -17,3 +17,4 @@ Estrutura de Dados |
 [Circular Queue](https://github.com/thalytabdn/Data_Structures/blob/master/queue/src/adt/queue/CircularQueue.java)
 [Hash Table with closed address](https://github.com/thalytabdn/Data_Structures/blob/master/hashTable/src/adt/hashtable/closed/HashtableClosedAddressImpl.java)
 [Hash Table with open address](https://github.com/thalytabdn/Data_Structures/tree/master/hashTable/src/adt/hashtable/open)
+[Binary Search Tree](https://github.com/thalytabdn/Data_Structures/blob/master/BinarySearchTree/src/adt/bst/BSTImpl.java)
