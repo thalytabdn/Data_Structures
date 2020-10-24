@@ -1,10 +1,10 @@
-# Data_Structures
+# Data Structures
 
-Implementações de estrutura de dados em Java desenvolvidas para a disciplina de Laboratório de Laboratório de Estrutura de Dados e Algoritmos.
+Data structure implementations in Java.
 
 ## Implementações 
 
-Estrutura de Dados | 
+Data Structures 
 ------------------ |
 [Single Linked List](https://github.com/thalytabdn/Data_Structures/blob/master/linked_List/src/adt/linkedListInterative/SingleLinkedListImpl.java)
 [Double Linked List](https://github.com/thalytabdn/Data_Structures/blob/master/linked_List/src/adt/linkedListInterative/DoubleLinkedListImpl.java)
